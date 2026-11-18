@@ -1,0 +1,5 @@
+S -> a | aA | B | C
+A -> aB | LAMBDA
+B -> Aa
+C -> cCD
+D -> ddd | Cd
