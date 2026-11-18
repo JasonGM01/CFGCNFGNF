@@ -43,5 +43,6 @@ public class Main {
         Map<Character, List<String>> gnfGrammar = gnfConverter.transform();
 
         System.out.println("GNF:        " + gnfGrammar);
+        scanner.close();
     }
 }
