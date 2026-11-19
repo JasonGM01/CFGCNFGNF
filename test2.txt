@@ -1,5 +1,5 @@
 S -> a | aA | B | C
-A -> aB | LAMBDA
+A -> aB | λ
 B -> Aa
 C -> cCD
 D -> ddd | Cd
